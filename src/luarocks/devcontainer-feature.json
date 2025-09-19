@@ -1,0 +1,10 @@
+{
+  "id": "luarocks",
+  "version": "0.0.1",
+  "name": "LuaRocks",
+  "description": "Installs LuaRocks (Lua package manager).",
+  "documentationURL": "https://github.com/nikunh/luarocks-vishkrm",
+  "licenseURL": "https://github.com/nikunh/luarocks-vishkrm/blob/main/LICENSE",
+  "options": {},
+  "installsAfter": []
+}
